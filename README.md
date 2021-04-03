@@ -1,1 +1,3 @@
-# codewars-shell
+# Codewars - Shell
+
+## Desafios em Shell Script
