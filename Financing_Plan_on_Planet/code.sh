@@ -37,9 +37,9 @@ finance(){
                 money_saved=0
                 if test "$today" -le "$week_number"
                 then
-                    money_saved=`echo "$today+$week_number" | bc`
+                    money_saved=$(( "$today"+"$week_number" ))
                 fi
-                amount=`echo "$amount+$money_saved" | bc`
+                amount=$(( "$amount"+"$money_saved" ))
                 ((++today))
             done
             ((++week_number))
