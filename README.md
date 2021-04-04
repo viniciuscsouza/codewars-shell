@@ -10,3 +10,5 @@ Cada pasta corresponde a um desafio, nelas estarão os arquivos:
 
 Link para o meu perfil
 [Codewars](https://www.codewars.com/users/viniciuscsouza)
+![Codewars Badge]
+(https://www.codewars.com/users/viniciuscsouza/badges/large)
